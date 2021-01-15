@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\obj\Debug\DataRepository.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\obj\Debug\DataRepository.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\DataRepository.dll.config
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\DataRepository.dll
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\DataRepository.pdb
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\obj\Debug\DataRepository.csproj.CopyComplete
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\obj\Debug\DataRepository.dll
+C:\Users\Asus\Desktop\QuanLyLuat\DataRepository\obj\Debug\DataRepository.pdb
