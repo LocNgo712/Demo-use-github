@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="QLLuatApp.MainPage">
+
+
+    <StackLayout Margin="10,20,20,20" >
+        <Label Text="THEM LUAT MOI " HorizontalOptions="Center" />
+        <Editor x:Name="editor"
+                Text="{Binding Text}"
+                Placeholder="Nhap ten luat"
+                HeightRequest="50" />
+        <Editor x:Name="content"
+                Text="{Binding Text}"
+                Placeholder="Nhap noi dung luat"
+                HeightRequest="50" />
+        <Editor x:Name="year"
+                Text="{Binding Text}"
+                Placeholder="Nam ban hanh"
+                HeightRequest="50" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Text="Save" Clicked="SaveLaw"/>
+            <Button Text="Delete" Clicked="DeleteLaw" Grid.Column="1"/>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
